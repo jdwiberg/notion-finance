@@ -14,7 +14,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$building$2d$complex$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Building2$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/building-complex.mjs [app-client] (ecmascript) <export default as Building2>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/check.mjs [app-client] (ecmascript) <export default as Check>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$alert$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__CircleAlert$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/circle-alert.mjs [app-client] (ecmascript) <export default as CircleAlert>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$landmark$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Landmark$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/landmark.mjs [app-client] (ecmascript) <export default as Landmark>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$loader$2d$circle$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LoaderCircle$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/loader-circle.mjs [app-client] (ecmascript) <export default as LoaderCircle>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/plus.mjs [app-client] (ecmascript) <export default as Plus>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$refresh$2d$cw$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__RefreshCw$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/refresh-cw.mjs [app-client] (ecmascript) <export default as RefreshCw>");
@@ -193,14 +192,14 @@ function Dashboard({ plaidEnvironment }) {
                                     children: "PERSONAL FINANCE"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 185,
+                                    lineNumber: 184,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                     children: "Your money, in one place."
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 186,
+                                    lineNumber: 185,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -208,13 +207,13 @@ function Dashboard({ plaidEnvironment }) {
                                     children: "A private view of your connected accounts and recent activity."
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 187,
+                                    lineNumber: 186,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 184,
+                            lineNumber: 183,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -226,14 +225,14 @@ function Dashboard({ plaidEnvironment }) {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 191,
+                                            lineNumber: 190,
                                             columnNumber: 15
                                         }, this),
                                         environmentLabel
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 190,
+                                    lineNumber: 189,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -246,32 +245,32 @@ function Dashboard({ plaidEnvironment }) {
                                             size: 17
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 194,
+                                            lineNumber: 193,
                                             columnNumber: 29
                                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__["Plus"], {
                                             size: 17
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 194,
+                                            lineNumber: 193,
                                             columnNumber: 75
                                         }, this),
                                         connecting ? "Connecting" : "Connect a bank"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 193,
+                                    lineNumber: 192,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 189,
+                            lineNumber: 188,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/dashboard.tsx",
-                    lineNumber: 183,
+                    lineNumber: 182,
                     columnNumber: 9
                 }, this),
                 error && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -282,20 +281,20 @@ function Dashboard({ plaidEnvironment }) {
                             size: 18
                         }, void 0, false, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 200,
+                            lineNumber: 199,
                             columnNumber: 56
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             children: error
                         }, void 0, false, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 200,
+                            lineNumber: 199,
                             columnNumber: 81
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/dashboard.tsx",
-                    lineNumber: 200,
+                    lineNumber: 199,
                     columnNumber: 19
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -312,14 +311,14 @@ function Dashboard({ plaidEnvironment }) {
                                             size: 16
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 204,
+                                            lineNumber: 203,
                                             columnNumber: 44
                                         }, this),
                                         " TOTAL ACCOUNT BALANCE"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 204,
+                                    lineNumber: 203,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -327,7 +326,7 @@ function Dashboard({ plaidEnvironment }) {
                                     children: loading ? "Loading…" : formatMoney(totalBalance, "USD")
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 205,
+                                    lineNumber: 204,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -340,14 +339,14 @@ function Dashboard({ plaidEnvironment }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 206,
+                                    lineNumber: 205,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "summary-rule"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 207,
+                                    lineNumber: 206,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -362,7 +361,7 @@ function Dashboard({ plaidEnvironment }) {
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 209,
+                                            lineNumber: 208,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -370,26 +369,26 @@ function Dashboard({ plaidEnvironment }) {
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 210,
+                                                    lineNumber: 209,
                                                     columnNumber: 48
                                                 }, this),
                                                 " Live data"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 210,
+                                            lineNumber: 209,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 208,
+                                    lineNumber: 207,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 203,
+                            lineNumber: 202,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -400,7 +399,7 @@ function Dashboard({ plaidEnvironment }) {
                                     children: "CONNECTED INSTITUTIONS"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 214,
+                                    lineNumber: 213,
                                     columnNumber: 13
                                 }, this),
                                 loading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -411,14 +410,14 @@ function Dashboard({ plaidEnvironment }) {
                                             size: 16
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 215,
+                                            lineNumber: 214,
                                             columnNumber: 54
                                         }, this),
                                         " Loading connections"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 215,
+                                    lineNumber: 214,
                                     columnNumber: 24
                                 }, this) : connections.length ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "institution-list",
@@ -431,12 +430,12 @@ function Dashboard({ plaidEnvironment }) {
                                                         size: 17
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/dashboard.tsx",
-                                                        lineNumber: 218,
+                                                        lineNumber: 217,
                                                         columnNumber: 54
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 218,
+                                                    lineNumber: 217,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -444,7 +443,7 @@ function Dashboard({ plaidEnvironment }) {
                                                     children: connection.institutionName
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 219,
+                                                    lineNumber: 218,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__["Check"], {
@@ -452,37 +451,37 @@ function Dashboard({ plaidEnvironment }) {
                                                     size: 16
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 220,
+                                                    lineNumber: 219,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, `${connection.institutionName}-${index}`, true, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 217,
+                                            lineNumber: 216,
                                             columnNumber: 57
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 216,
+                                    lineNumber: 215,
                                     columnNumber: 15
                                 }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "empty-inline",
                                     children: "No banks connected yet"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 223,
+                                    lineNumber: 222,
                                     columnNumber: 17
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 213,
+                            lineNumber: 212,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/dashboard.tsx",
-                    lineNumber: 202,
+                    lineNumber: 201,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -498,20 +497,20 @@ function Dashboard({ plaidEnvironment }) {
                                             children: "YOUR ACCOUNTS"
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 229,
+                                            lineNumber: 228,
                                             columnNumber: 18
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                             children: "Accounts"
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 229,
+                                            lineNumber: 228,
                                             columnNumber: 58
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 229,
+                                    lineNumber: 228,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -525,18 +524,18 @@ function Dashboard({ plaidEnvironment }) {
                                         size: 17
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard.tsx",
-                                        lineNumber: 231,
+                                        lineNumber: 230,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 230,
+                                    lineNumber: 229,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 228,
+                            lineNumber: 227,
                             columnNumber: 11
                         }, this),
                         accounts.length ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -550,12 +549,12 @@ function Dashboard({ plaidEnvironment }) {
                                                 size: 18
                                             }, void 0, false, {
                                                 fileName: "[project]/app/dashboard.tsx",
-                                                lineNumber: 236,
+                                                lineNumber: 235,
                                                 columnNumber: 46
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 236,
+                                            lineNumber: 235,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -566,7 +565,7 @@ function Dashboard({ plaidEnvironment }) {
                                                     children: account.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 238,
+                                                    lineNumber: 237,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -579,13 +578,13 @@ function Dashboard({ plaidEnvironment }) {
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 239,
+                                                    lineNumber: 238,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 237,
+                                            lineNumber: 236,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -595,73 +594,73 @@ function Dashboard({ plaidEnvironment }) {
                                                     children: formatMoney(signedBalance(account.balance, account.type), account.currency)
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 241,
+                                                    lineNumber: 240,
                                                     columnNumber: 48
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                     children: "Current balance"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 241,
+                                                    lineNumber: 240,
                                                     columnNumber: 142
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 241,
+                                            lineNumber: 240,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, account.id, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 235,
+                                    lineNumber: 234,
                                     columnNumber: 40
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 234,
+                            lineNumber: 233,
                             columnNumber: 30
                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "empty-state",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "empty-icon",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$landmark$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Landmark$3e$__["Landmark"], {
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Landmark, {
                                         size: 21
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard.tsx",
-                                        lineNumber: 244,
+                                        lineNumber: 243,
                                         columnNumber: 42
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 244,
+                                    lineNumber: 243,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                     children: loading ? "Loading accounts" : "Your accounts will show up here"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 245,
+                                    lineNumber: 244,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     children: loading ? "Fetching your linked bank information." : "Connect a bank to retrieve balances and recent transactions."
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 246,
+                                    lineNumber: 245,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 243,
+                            lineNumber: 242,
                             columnNumber: 20
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/dashboard.tsx",
-                    lineNumber: 227,
+                    lineNumber: 226,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -677,20 +676,20 @@ function Dashboard({ plaidEnvironment }) {
                                             children: "LAST 30 DAYS"
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 252,
+                                            lineNumber: 251,
                                             columnNumber: 18
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                             children: "Recent transactions"
                                         }, void 0, false, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 252,
+                                            lineNumber: 251,
                                             columnNumber: 57
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 252,
+                                    lineNumber: 251,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -701,13 +700,13 @@ function Dashboard({ plaidEnvironment }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 253,
+                                    lineNumber: 252,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 251,
+                            lineNumber: 250,
                             columnNumber: 11
                         }, this),
                         transactions.length ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -721,21 +720,21 @@ function Dashboard({ plaidEnvironment }) {
                                                     children: "MERCHANT"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 256,
+                                                    lineNumber: 255,
                                                     columnNumber: 24
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
                                                     children: "ACCOUNT"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 256,
+                                                    lineNumber: 255,
                                                     columnNumber: 41
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
                                                     children: "DATE"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 256,
+                                                    lineNumber: 255,
                                                     columnNumber: 57
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
@@ -743,18 +742,18 @@ function Dashboard({ plaidEnvironment }) {
                                                     children: "AMOUNT"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/dashboard.tsx",
-                                                    lineNumber: 256,
+                                                    lineNumber: 255,
                                                     columnNumber: 70
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/app/dashboard.tsx",
-                                            lineNumber: 256,
+                                            lineNumber: 255,
                                             columnNumber: 20
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard.tsx",
-                                        lineNumber: 256,
+                                        lineNumber: 255,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {
@@ -772,18 +771,18 @@ function Dashboard({ plaidEnvironment }) {
                                                                         size: 16
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/app/dashboard.tsx",
-                                                                        lineNumber: 262,
+                                                                        lineNumber: 261,
                                                                         columnNumber: 33
                                                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$down$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowDownRight$3e$__["ArrowDownRight"], {
                                                                         size: 16
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/app/dashboard.tsx",
-                                                                        lineNumber: 262,
+                                                                        lineNumber: 261,
                                                                         columnNumber: 63
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/app/dashboard.tsx",
-                                                                    lineNumber: 261,
+                                                                    lineNumber: 260,
                                                                     columnNumber: 17
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -792,31 +791,31 @@ function Dashboard({ plaidEnvironment }) {
                                                                             children: transaction.merchant ?? transaction.name
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/app/dashboard.tsx",
-                                                                            lineNumber: 264,
+                                                                            lineNumber: 263,
                                                                             columnNumber: 23
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                                             children: transaction.category
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/app/dashboard.tsx",
-                                                                            lineNumber: 264,
+                                                                            lineNumber: 263,
                                                                             columnNumber: 82
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/app/dashboard.tsx",
-                                                                    lineNumber: 264,
+                                                                    lineNumber: 263,
                                                                     columnNumber: 17
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/app/dashboard.tsx",
-                                                            lineNumber: 260,
+                                                            lineNumber: 259,
                                                             columnNumber: 19
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/dashboard.tsx",
-                                                        lineNumber: 260,
+                                                        lineNumber: 259,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -824,7 +823,7 @@ function Dashboard({ plaidEnvironment }) {
                                                         children: transaction.accountName
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/dashboard.tsx",
-                                                        lineNumber: 266,
+                                                        lineNumber: 265,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -832,7 +831,7 @@ function Dashboard({ plaidEnvironment }) {
                                                         children: formatDate(transaction.date)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/dashboard.tsx",
-                                                        lineNumber: 267,
+                                                        lineNumber: 266,
                                                         columnNumber: 15
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -843,30 +842,30 @@ function Dashboard({ plaidEnvironment }) {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/dashboard.tsx",
-                                                        lineNumber: 268,
+                                                        lineNumber: 267,
                                                         columnNumber: 15
                                                     }, this)
                                                 ]
                                             }, transaction.id, true, {
                                                 fileName: "[project]/app/dashboard.tsx",
-                                                lineNumber: 259,
+                                                lineNumber: 258,
                                                 columnNumber: 22
                                             }, this);
                                         })
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard.tsx",
-                                        lineNumber: 257,
+                                        lineNumber: 256,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/dashboard.tsx",
-                                lineNumber: 255,
+                                lineNumber: 254,
                                 columnNumber: 62
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 255,
+                            lineNumber: 254,
                             columnNumber: 34
                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "empty-state empty-transactions",
@@ -877,38 +876,38 @@ function Dashboard({ plaidEnvironment }) {
                                         size: 20
                                     }, void 0, false, {
                                         fileName: "[project]/app/dashboard.tsx",
-                                        lineNumber: 274,
+                                        lineNumber: 273,
                                         columnNumber: 42
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 274,
+                                    lineNumber: 273,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                     children: loading ? "Loading activity" : "No recent transactions"
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 275,
+                                    lineNumber: 274,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     children: loading ? "Your latest activity is on its way." : "Recent bank activity will appear here once an account is connected."
                                 }, void 0, false, {
                                     fileName: "[project]/app/dashboard.tsx",
-                                    lineNumber: 276,
+                                    lineNumber: 275,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 273,
+                            lineNumber: 272,
                             columnNumber: 28
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/dashboard.tsx",
-                    lineNumber: 250,
+                    lineNumber: 249,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -918,25 +917,25 @@ function Dashboard({ plaidEnvironment }) {
                             className: "secure-dot"
                         }, void 0, false, {
                             fileName: "[project]/app/dashboard.tsx",
-                            lineNumber: 280,
+                            lineNumber: 279,
                             columnNumber: 41
                         }, this),
                         " Bank data is retrieved through Plaid. Your bank credentials are never stored here."
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/dashboard.tsx",
-                    lineNumber: 280,
+                    lineNumber: 279,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/app/dashboard.tsx",
-            lineNumber: 182,
+            lineNumber: 181,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/dashboard.tsx",
-        lineNumber: 181,
+        lineNumber: 180,
         columnNumber: 5
     }, this);
 }
@@ -1364,83 +1363,6 @@ __turbopack_context__.s([
     ()=>__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$alert$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$alert$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/circle-alert.mjs [app-client] (ecmascript)");
-}),
-"[project]/node_modules/lucide-react/dist/esm/icons/landmark.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "__iconData",
-    ()=>__iconData,
-    "default",
-    ()=>Landmark
-]);
-/**
- * @license lucide-react v1.52.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.mjs [app-client] (ecmascript)");
-;
-const __iconData = {
-    name: "landmark",
-    size: 24,
-    node: [
-        [
-            "path",
-            {
-                d: "M10 18v-7",
-                key: "wt116b"
-            }
-        ],
-        [
-            "path",
-            {
-                d: "M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z",
-                key: "yxxwt6"
-            }
-        ],
-        [
-            "path",
-            {
-                d: "M14 18v-7",
-                key: "vav6t3"
-            }
-        ],
-        [
-            "path",
-            {
-                d: "M18 18v-7",
-                key: "aexdmj"
-            }
-        ],
-        [
-            "path",
-            {
-                d: "M3 22h18",
-                key: "8prr45"
-            }
-        ],
-        [
-            "path",
-            {
-                d: "M6 18v-7",
-                key: "1ivflk"
-            }
-        ]
-    ]
-};
-__iconData.node;
-const Landmark = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])(__iconData);
-;
-}),
-"[project]/node_modules/lucide-react/dist/esm/icons/landmark.mjs [app-client] (ecmascript) <export default as Landmark>", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "Landmark",
-    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$landmark$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
-]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$landmark$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/landmark.mjs [app-client] (ecmascript)");
 }),
 "[project]/node_modules/lucide-react/dist/esm/icons/loader-circle.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
@@ -2652,4 +2574,4 @@ else {
 }),
 ]);
 
-//# sourceMappingURL=_1a921v-._.js.map
+//# sourceMappingURL=_05ebo_h._.js.map

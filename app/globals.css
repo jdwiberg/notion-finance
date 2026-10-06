@@ -25,16 +25,13 @@ button { cursor: pointer; }
 button:disabled { cursor: not-allowed; opacity: 0.7; }
 
 .workspace { min-height: 100vh; }
-.topbar { height: 66px; display: flex; align-items: center; justify-content: space-between; padding: 0 max(28px, calc((100vw - 1160px) / 2)); border-bottom: 1px solid var(--line); background: var(--surface); }
-.brand { display: inline-flex; align-items: center; gap: 9px; color: var(--ink); text-decoration: none; font-size: 20px; font-weight: 750; letter-spacing: 0; }
-.brand-mark { width: 31px; height: 31px; display: grid; place-items: center; border-radius: 8px; background: var(--forest); color: white; }
-.brand-period { color: var(--forest); }
-.topbar-right { display: flex; align-items: center; gap: 16px; }
 .environment { display: inline-flex; align-items: center; gap: 7px; padding: 6px 10px; border: 1px solid #e7d7a8; border-radius: 99px; color: #79632a; background: #fbf7e9; font-size: 12px; font-weight: 650; }
+.environment-production { border-color: #b9d9c3; color: #286a42; background: #edf7ef; }
 .environment > span, .live-indicator > span, .secure-dot { width: 7px; height: 7px; border-radius: 50%; background: #c99b31; }
-.profile-mark { width: 30px; height: 30px; display: grid; place-items: center; border-radius: 50%; background: #e7ece7; color: #465d51; font-size: 12px; font-weight: 700; }
+.environment-production > span { background: #429467; }
 .content { width: min(100% - 48px, 1040px); margin: 0 auto; padding: 48px 0 35px; }
 .page-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; margin-bottom: 28px; }
+.page-actions { display: flex; align-items: center; gap: 10px; }
 .eyebrow { margin: 0 0 9px; color: var(--forest); font-size: 10px; font-weight: 750; letter-spacing: 1.2px; }
 h1, h2, p { margin-top: 0; }
 h1 { margin-bottom: 8px; font-size: 29px; line-height: 1.2; font-weight: 650; letter-spacing: 0; }
@@ -102,9 +99,9 @@ td { padding: 12px 15px; border-top: 1px solid #edf0eb; font-size: 12px; white-s
 @keyframes spin { to { transform: rotate(360deg); } }
 
 @media (max-width: 700px) {
-  .topbar { height: 58px; padding: 0 18px; }
   .content { width: min(100% - 32px, 520px); padding-top: 34px; }
   .page-heading { align-items: flex-start; flex-direction: column; gap: 18px; }
+  .page-actions { flex-wrap: wrap; }
   h1 { font-size: 25px; }
   .summary-grid { grid-template-columns: 1fr; }
   .summary-side { min-height: 100px; border-top: 1px solid var(--line); border-left: 0; padding: 18px 21px; }

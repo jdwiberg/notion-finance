@@ -39,6 +39,11 @@ type Transaction = {
 
 type Connection = { institutionName: string; accounts: Account[]; transactions: Transaction[] };
 type Snapshot = { connections: Connection[] };
+const environmentLabels: Record<string, string> = {
+  sandbox: "Sandbox",
+  development: "Development",
+  production: "Production",
+};
 
 async function getSnapshot(): Promise<Snapshot> {
   const response = await fetch("/api/plaid/data", { cache: "no-store" });
@@ -69,7 +74,7 @@ function signedTransactionAmount(amount: number) {
   return -amount;
 }
 
-export default function Dashboard() {
+export default function Dashboard({ plaidEnvironment }: { plaidEnvironment: string }) {
   const [linkToken, setLinkToken] = useState<string | null>(null);
   const shouldOpenLink = useRef(false);
   const [snapshot, setSnapshot] = useState<Snapshot>({ connections: [] });
@@ -87,6 +92,7 @@ export default function Dashboard() {
     (sum, account) => sum + (signedBalance(account.balance, account.type) ?? 0),
     0,
   );
+  const environmentLabel = environmentLabels[plaidEnvironment] ?? "Unknown";
 
   async function loadData(showSpinner = true) {
     if (showSpinner) setRefreshing(true);
@@ -173,14 +179,6 @@ export default function Dashboard() {
 
   return (
     <main className="workspace">
-      <header className="topbar">
-        <a className="brand" href="#overview" aria-label="Ledger home">
-          <span className="brand-mark"><Landmark size={18} strokeWidth={2.2} /></span>
-          <span>ledger<span className="brand-period">.</span></span>
-        </a>
-        <div className="topbar-right"><span className="environment"><span /> Sandbox</span><span className="profile-mark">J</span></div>
-      </header>
-
       <section className="content" id="overview">
         <div className="page-heading">
           <div>
@@ -188,10 +186,15 @@ export default function Dashboard() {
             <h1>Your money, in one place.</h1>
             <p className="subheading">A private view of your connected accounts and recent activity.</p>
           </div>
-          <button className="button button-primary" onClick={connectBank} disabled={connecting}>
-            {connecting ? <LoaderCircle className="spin" size={17} /> : <Plus size={17} />}
-            {connecting ? "Connecting" : "Connect a bank"}
-          </button>
+          <div className="page-actions">
+            <span className={`environment${plaidEnvironment === "production" ? " environment-production" : ""}`} aria-label={`Plaid environment: ${environmentLabel}`}>
+              <span />{environmentLabel}
+            </span>
+            <button className="button button-primary" onClick={connectBank} disabled={connecting}>
+              {connecting ? <LoaderCircle className="spin" size={17} /> : <Plus size={17} />}
+              {connecting ? "Connecting" : "Connect a bank"}
+            </button>
+          </div>
         </div>
 
         {error && <div className="notice" role="alert"><CircleAlert size={18} /><span>{error}</span></div>}

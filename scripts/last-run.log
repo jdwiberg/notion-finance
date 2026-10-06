@@ -1,0 +1,92 @@
+2026-10-06 09:32:36 Starting scheduled Notion sync
+▲ Next.js 16.3.8 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+- Environments: .env.local
+✓ Ready in 1044ms
+✓ Running next.config.ts took 81ms
+
+ GET / 200 in 83ms (next.js: 6ms, application-code: 78ms)
+Fetching Plaid data from http://127.0.0.1:3000/api/plaid/data...
+ GET /api/plaid/data 200 in 1146ms (next.js: 259ms, application-code: 887ms)
+Updated account CREDIT CARD in Notion.
+Updated transaction 2026-10-04 | CL *Chase Travel.
+Updated transaction 2026-10-04 | FOREIGN TRANSACTION FEE.
+Updated transaction 2026-10-04 | Twin Pines Driving Range.
+Updated transaction 2026-10-04 | New City.
+Updated transaction 2026-10-03 | Sagamore Hampton Golf Club.
+Updated transaction 2026-09-29 | Carriage Towne Bar & Grille.
+Updated transaction 2026-09-27 | City of Manchester.
+Updated transaction 2026-09-27 | City of Manchester.
+Updated transaction 2026-09-27 | Market Basket.
+Updated transaction 2026-09-27 | Sagamore Hampton Golf Club.
+Updated transaction 2026-09-27 | Shell.
+Updated transaction 2026-09-23 | ExxonMobil.
+Updated transaction 2026-09-23 | Old Navy.
+Updated transaction 2026-09-23 | The Paper Store.
+Updated transaction 2026-09-22 | Exeter Country Club.
+Updated transaction 2026-09-21 | Lindy's Country Store.
+Updated transaction 2026-09-21 | The Thirsty Moose.
+Updated transaction 2026-09-21 | Tj's Cantina.
+Updated transaction 2026-09-21 | Taco Bell.
+Updated transaction 2026-09-20 | GLF*ExeterCountryClub.
+Updated transaction 2026-09-20 | Exeter Country Club.
+Updated transaction 2026-09-20 | The Inkwell Coffee House.
+Updated transaction 2026-09-20 | Twin Pines Driving Range.
+Updated transaction 2026-09-17 | Nexdine.
+Updated transaction 2026-09-16 | ExxonMobil.
+Updated transaction 2026-09-14 | Sagamore Hampton Golf Club.
+Updated transaction 2026-09-14 | Sagamore Hampton Golf Club.
+Updated transaction 2026-09-11 | Hannaford.
+Updated transaction 2026-09-11 | Payment Thank You-Mobile.
+Updated transaction 2026-09-11 | The Color Loft.
+Updated transaction 2026-09-10 | Portsmouth Parking Authority.
+Updated transaction 2026-09-09 | La Maison Navarre.
+Updated transaction 2026-09-08 | Ikon.
+Updated transaction 2026-09-07 | AUTOMATIC PAYMENT - THANK.
+Updated transaction 2026-09-07 | The Friendly Toast.
+Updated transaction 2026-09-06 | Lyft.
+Updated transaction 2026-09-06 | The Inkwell Coffee House.
+Updated transaction 2026-09-06 | Zorvino Vineyards.
+Updated account One Deposit Savings in Notion.
+Updated account Student Checking in Notion.
+Synced 2026-10-06 | CHASE CREDIT CR | -585.44
+Updated transaction 2026-10-05 | 100526TO CHECKING 3316347773.
+Synced 2026-10-05 | FROM SAVINGS 3375240393 | 585.44
+Updated transaction 2026-10-05 | Morgan Stanley.
+Updated transaction 2026-10-02 | 100226FROM CHECKING 3316347773.
+Updated transaction 2026-10-02 | TO SAVINGS 3375240393.
+Updated transaction 2026-10-01 | IBM 3141 PAYROLL CITIZENS PAID EARLY.
+Updated transaction 2026-09-29 | Venmo.
+Updated transaction 2026-09-28 | Morgan Stanley.
+Updated transaction 2026-09-25 | 092526FROM CHECKING 3316347773.
+Updated transaction 2026-09-25 | TO SAVINGS 3375240393.
+Updated transaction 2026-09-24 | IBM 3141 PAYROLL CITIZENS PAID EARLY.
+Updated transaction 2026-09-21 | DISCOVER CASH AWARD.
+Updated transaction 2026-09-21 | Morgan Stanley.
+Updated transaction 2026-09-18 | 091826FROM CHECKING 3316347773.
+Updated transaction 2026-09-18 | TO SAVINGS 3375240393.
+Updated transaction 2026-09-17 | IBM 3141 PAYROLL CITIZENS PAID EARLY.
+Updated transaction 2026-09-15 | Morgan Stanley.
+Updated transaction 2026-09-14 | CHASE CREDIT CRD EPAY.
+Updated transaction 2026-09-14 | Morgan Stanley.
+Updated transaction 2026-09-14 | Venmo.
+Updated transaction 2026-09-11 | 091126FROM CHECKING 3316347773.
+Updated transaction 2026-09-11 | TO SAVINGS 3375240393.
+Updated transaction 2026-09-10 | IBM 3141 PAYROLL CITIZENS PAID EARLY.
+Updated transaction 2026-09-10 | Venmo.
+Updated transaction 2026-09-08 | CHASE CREDIT CRD AUTOPAY.
+Updated account American Express Gold Card in Notion.
+Updated transaction 2026-10-04 | The Rosa Restaurant.
+Updated transaction 2026-10-02 | Airbnb.
+Updated transaction 2026-10-02 | AMERICAN EXPRESS TRAPHOENIX.
+Updated transaction 2026-10-02 | TRIP CANCEL GUARD.
+Updated transaction 2026-10-01 | Airbnb.
+Updated transaction 2026-10-01 | Airbnb.
+Updated transaction 2026-09-30 | Hannaford.
+Updated transaction 2026-09-30 | Nexdine.
+Updated account Roth IRA -0316 in Notion.
+Updated account Individual Brokerage -0497 in Notion.
+Done. Synced 6 account(s) and 72 transaction(s) to Notion.
+2026-10-06 09:34:04 Sync completed successfully
+[?25h
